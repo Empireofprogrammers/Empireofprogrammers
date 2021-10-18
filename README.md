@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Empireofprogrammers
-- 👀 I’m interested in python,c# and ethical hacking
+- 👀 I’m interested in python, c# and ethical hacking
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://discord.gg/qrJQYZXKVW
